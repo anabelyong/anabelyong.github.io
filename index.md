@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock1.png">
+<img class="profile-picture" src="sherlock1.png" style="width: 200px; height: auto;">
 
 Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biology at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
@@ -21,19 +21,19 @@ My hobbies include swimming and making hotpot!
 
 ## Research Experiences
 
-Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich
+**Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher]**(https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich
 - Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
 - Implemented this tool for accurate & sensitive protein group FDR method on MaxQuant and Fragpipe database
 outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
 - Controlled false discovery rate for feature selection in human MS-based proteomics dataset (size: 27.1 Gb)
 
-Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)
+**Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori]**(http://abacus.gene.ucl.ac.uk/)
 - Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
 dataset.
 - Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
 Hardy-Weinberg principle.
 
-Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)
+**Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima]**(https://grimagroup.bio.ed.ac.uk/ramon-grima)
 - Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
 complex data patterns in mRNA decay biochemical kinetics.
 - Conducted extensive research in Continuous Time Markov Chain processes for sampling functional Kolmogorov
@@ -70,5 +70,5 @@ Several other courseworks in bioinformatics, probabilistic and unsupervised lear
 
 ## References
 
-* Patrick Heun: [Researcher at the Welcome Centre for Cell Biology Lab](https://www.ed.ac.uk/biology/groups/heunlab)
-* Georg Kustatscher: Researcher at Unviersity of Edinburgh in Computational Proteomics
+* **Patrick Heun**: [Researcher at the Welcome Centre for Cell Biology Lab](https://www.ed.ac.uk/biology/groups/heunlab)
+* **Georg Kustatscher**: [Researcher at Unviersity of Edinburgh in Computational Proteomics](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher)
