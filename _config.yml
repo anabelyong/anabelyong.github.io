@@ -1,13 +1,13 @@
 title: Researcher
 url: "https://anabel-yong.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
-tracking_id: #
+use_tracking: yes  
 
-footer: yes
+footer: no
 footer_url: "https://github.com/anabelyong"
 footer_text: "Page design by Ankit Sultana, for Jekyll based template"
 
