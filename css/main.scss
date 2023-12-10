@@ -1,3 +1,20 @@
 ---
 ---
 @import "style";
+
+.content-block {
+    display: flex;
+    align-items: flex-start; /* Aligns the content to the top */
+    margin-bottom: 20px; /* Adds space between the content blocks */
+}
+
+.profile-picture {
+    width: 150px; /* Set the width you desire */
+    height: 150px; /* Set the height you desire */
+    border-radius: 0; /* Removes any existing border-radius for a square shape */
+    margin-right: 20px; /* Adds space between the image and the text */
+}
+
+.text-content {
+    flex: 1; /* Takes up the remaining space */
+}
