@@ -1,3 +1,8 @@
 ---
 ---
 @import "style";
+
+.profile-picture {
+    width: 200px; /* Set your desired width */
+    height: auto; /* This will maintain the aspect ratio */
+}
