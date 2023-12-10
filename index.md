@@ -20,11 +20,14 @@ My hobbies include swimming and making hotpot!
 - Statistical Machine Learning
 
 ## Industry Experience
-1. Part-time Data Scientist @ SAINS Kuching (2023)
+1. Part-time Data Scientist @ SAINS Kuching (June 2023)
 - Deployed supervised learning algorithms, including Random Forest Classifiers and Logistic Regression, to predict consumer behaviors in pharmaceutical companies
 
-2. Data Science Intern @ Graphcore (2022)
-- Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation. 
+2. Data Science Intern @ Graphcore (June 2022)
+- Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
+
+3. Data Analyst Intern @ Graphcore (June 2020)
+- Implemented logistic regression in R for feature importance and selection in EAWAG-BBD database for biodegradation genes.
 ## Research Experiences
 
 <img class="profile-picture" src="ProteomeHD2.png">
