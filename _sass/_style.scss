@@ -8,11 +8,16 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    scroll-behavior: smooth;
 }
 body {
     margin: 0;
-    font-family: "Inconsolata";
+    font-family: "Karla";
+    font-size: 0.9em;  // Jetbrains Mono is too big
+    line-height: 1.5;
     height: 100%;
+    background-color: #fdfdfd;
+    color: $textcolor;
 }
 a {
     text-decoration: none;
@@ -33,12 +38,13 @@ hr {
  */
 
 #author-name {
-    font-size: 30px;
+    font-size: 190%;  // 30px;
     color: #272727;
     display: inline-block;
 }
 .navbar {
     padding: 50px 0 50px 0;
+    line-height: 1;
 }
 .navbar-ul {
     display: inline-block;
@@ -48,7 +54,8 @@ hr {
 }
 .nav-list {
     list-style-type: none;
-    margin: 0 5px 0 10px;
+    margin: 0 5px 0 5px;
+    // font-size: 95%;
 }
 .alignable {
     display: inline-block;
@@ -60,6 +67,9 @@ hr {
 .pull-right {
     @extend .alignable;
     float: right;
+}
+.nav-divider::before {
+    content: "/";
 }
 
 /* Divs */
@@ -127,5 +137,6 @@ hr {
 	}
 }
 
+@import "fonts";
 @import "typography";
 @import "tables";
