@@ -53,16 +53,22 @@ _Achieved an 80% (A2)_. \\
 2. Random Forest with Bayesian Optimisation for Heart Failure Prediction \\
 [View PDF →](/documents/AI4BH_CW1_23205123.pdf)
 
+<img class="profile-picture" src="GULO_GENE.png">
 3. Using structural bioinformatics approach for GULO functionality \\
 Coursework in Bioinformatics, taught by Ian Murray. \\
 _Achieved a 95% (A1)_. \\
 [View PDF →](/documents/GULO_Bioinformatics.pdf)
-
+ 
+<img class="profile-picture" src="MCM.png">
 4. Purification and Quantification of protein-DNA interactions of Minichromosome
 Maintenance Protein (MCM) of Pyrococcus abyssi \\
 Coursework in Structure and Functions of Proteins 3, taught by Paul McLaughlin. \\
 _Achieved a 90% (A1)_. \\
 [View PDF →](/documents/MCM_Protein_Project.pdf)
+
+ <img class="profile-picture" src="DNMT1-pic.png">
+5. DNMT1 methylates hemi-methylated CpGs but not un- methylated CpGs
+[View PDF →](/documents/Structural_Bioinformatics_Project1.pdf)
 
 Several other courseworks in bioinformatics, probabilistic and unsupervised learning, and proteomics which have been the highlights of my academic journey so far.
 
