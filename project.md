@@ -15,6 +15,13 @@ Here's a selection of projects that I've worked on. For each project, I've inclu
 - **[View Project](/documents/PUSL_23205123(1).pdf)**
 - **[Source Code](https://github.com/anabelyong/probabilistic-unsupervised-learning)**
 
+## Investigation into Autism Spectrum Disorder with ClinVar, NCBI, BioBank data repositories
+![Project Image 3](ASD.png)
+**Description:** Using a bioinformatics and genetic approach to overcome and understand the complexity of this disease, the workflow includes literature mining search to research on gene-ASD associations through Simons Foundation Autism Research Initiative (SFARI) database[6], autism gene analysis by utilizing gene ontology (GO) for attempting to functionally characterize these genes and autism network analysis to decipher which genes interact with each other in certain pathways in autism. Development in this area of research could potentially uncover more accurate molecular mechanisms behind why these mutations occur and how this leads to ASD.
+- **Technologies used:** Python
+- **Bioinformatics Software & Databases Utilized:** BioPython, Gene Ontology (GO), SFARI database, ClinVar, UK BioBank, PantherDB, TOMAS (Topology-aware Meta-analysis)
+- **[View Project](ASD_investigation.pdf)**
+
 ## Evaluation of False Discovery Rate approaches in large-scale proteomics data
 ![Project Image 3](ProteomeHD2.png)
 **Description:** Here, we mathematically investigated different false discovery rate approaches for the identification of proteins and microproteins in ProteomeHD2, which is curated by SILAC quantitation from mass spectrometry. This was processed through bio-softwares MaxQuant, Percolator and Fragpipe to process mass spectrometry fragments from wet-lab experiments (SILAC-based MS). The pgFDR tool was optimized here to maximise the detection of true proteins. Performance of pgFDR tool increased to 58% in ProteomeHD2, created by Georg Kustatscher.[Nature link](https://www.nature.com/articles/s41587-019-0298-5)
@@ -53,7 +60,7 @@ or BO have type B. At Hardy-Weinberg equilibrium, the genotype and phenotype fre
 ## Investigating molecular mechanism behind DNMT1 methylation of CpG islands
 ![Project Image 4](DNMT1.png)
 **Description:** I investigated the molecular mechanism of mouse DNMT1-DNA structures with available PDB structures DNMT1 bound to hemi-methylated DNA (4DA4) and unmethylated DNA (3PT6) found on UniProt and ProteinDataBank. 
-- **Bioinformatics Software & Databases Utilized:** PYMOL, CONSURF, UniProt, ProteinDataBank(PDB)
+- **Bioinformatics Software & Databases Utilized:** PYMOL, ClinVar, UK BioBank. CONSURF, UniProt, ProteinDataBank(PDB)
 - **[View Project](/documents/Structural_Bioinformatics_Project1.pdf)**
 
 ## Investigation of molecular mechanism of Minichromosome Maintenance Protein (MCM) protein-DNA interactions 
