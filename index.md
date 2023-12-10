@@ -64,13 +64,11 @@ _Achieved an 80% (A2)_. \\
 [View PDF →](/documents/AI4BH_CW1_23205123.pdf)
 
 3. Using structural bioinformatics approach for GULO functionality \\
-Coursework in Bioinformatics, taught by Ian Murray. \\
 _Achieved a 95% (A1)_. \\
 [View PDF →](/documents/GULO_Bioinformatics.pdf)
  
 4. Purification and Quantification of protein-DNA interactions of Minichromosome
 Maintenance Protein (MCM) of Pyrococcus abyssi \\
-Coursework in Structure and Functions of Proteins 3, taught by Paul McLaughlin. \\
 _Achieved a 90% (A1)_. \\
 [View PDF →](/documents/MCM_Protein_Project.pdf)
 
