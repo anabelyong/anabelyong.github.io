@@ -23,6 +23,12 @@ My hobbies include swimming and making hotpot!
 **Part-time Data Scientist @ SAINS Kuching, Malaysia (June 2023)**
 - Deployed supervised learning algorithms, including Random Forest Classifiers and Logistic Regression, to predict consumer behaviors in pharmaceutical companies
 
+**Data Science Intern @ Graphcore, London, United Kingdom (June 2022)**
+- Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
+
+**Data Analyst Intern @ International Medical University, Malaysia (June 2020)**
+- Implemented logistic regression in R for feature importance and selection in EAWAG-BBD database for biodegradation genes.
+
 ## Research Experiences
 
 <img class="profile-picture" src="ProteomeHD2.png">
