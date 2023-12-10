@@ -6,40 +6,69 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biology at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false disocvery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous [below](#previous-work).
 
-## Research Interest
+My hobbies include swimming and making hotpot! 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Research Interests
+<!-- TODO: Links to interesting papers -->
+- Geometric Deep Learning in Drug Discovery
+- Computational Biology (proteomics, structural bioinformatics)
+- Mathematical Biology, specifically Stochastic Optimisation in modelling biochemical networks
+- Statistical Machine Learning
 
-## Publications
+## Research Experiences
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich
+- Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
+- Implemented this tool for accurate & sensitive protein group FDR method on MaxQuant and Fragpipe database
+outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
+- Controlled false discovery rate for feature selection in human MS-based proteomics dataset (size: 27.1 Gb)
 
-## Typography
+Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)
+- Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
+dataset.
+- Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
+Hardy-Weinberg principle.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)
+- Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
+complex data patterns in mRNA decay biochemical kinetics.
+- Conducted extensive research in Continuous Time Markov Chain processes for sampling functional Kolmogorov
+Forward Equations (chemical Master Equation).
+- Applied Gibbs sampling (MCMC) and Metropolis Hastings algorithm to investigate consistent genes in the
+bipartite network
 
-Here is a table
+## Previous work
+1. Evaluation of different False discovery rate approaches in Large-scale Proteomics Data \\
+Bachelor's Thesis, supervised by [Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher). \\
+_Achieved an 80% (A2)_. \\
+[View PDF →](/documents/dissertation.pdf)  
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+2. Random Forest with Bayesian Optimisation for Heart Failure Prediction \\
+[View PDF →](/documents/AI4BH_CW1_23205123.pdf)
 
-Here is a horizontal rule
+3. Using structural bioinformatics approach for GULO functionality \\
+Coursework in Bioinformatics, taught by Ian Murray. \\
+_Achieved a 95% (A1)_. \\
+[View PDF →](/documents/GULO_Bioinformatics.pdf)
 
----
+4. Purification and Quantification of protein-DNA interactions of Minichromosome
+Maintenance Protein (MCM) of Pyrococcus abyssi \\
+Coursework in Structure and Functions of Proteins 3, taught by Paul McLaughlin. \\
+_Achieved a 90% (A1)_. \\
+[View PDF →](/documents/MCM_Protein_Project.pdf)
 
-Here is a blockquote
+Several other courseworks in bioinformatics, probabilistic and unsupervised learning, and proteomics which have been the highlights of my academic journey so far.
 
-> To a great mind, nothing is little
+## Other experience
+1. Part-time Data Scientist @ SAINS Kuching (2023)
+
+2. Data Science Intern @ Graphcore 
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Patrick Heun: Researcher at the Welcome Centre for Cell Biology [Lab](https://www.ed.ac.uk/biology/groups/heunlab)
+* Georg Kustatscher: Researcher at Unviersity of Edinburgh in Computational Proteomics
