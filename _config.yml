@@ -19,6 +19,6 @@ nav:
   - name: "About"
     link: "/"
   - name: "Projects"
-    link: "/projects"  # Make sure this link is correct. If projects.md is in the root, this is fine.
+    link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
   - name: "Contact"
     link: "/contact"   # Same here, ensure this is the correct link to your contact page.
