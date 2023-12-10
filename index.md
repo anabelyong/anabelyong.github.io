@@ -35,6 +35,7 @@ dataset.
 - Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
 Hardy-Weinberg principle.
 
+<img class="profile-picture" src="Stochastic.png">
 **Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)**
 - Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
 complex data patterns in mRNA decay biochemical kinetics.
