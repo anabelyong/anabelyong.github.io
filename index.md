@@ -28,12 +28,14 @@ My hobbies include swimming and making hotpot!
 outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
 - Controlled false discovery rate for feature selection in human MS-based proteomics dataset (size: 27.1 Gb)
 
+<img class="profile-picture" src="ABOBlood.png">
 **Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)**
 - Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
 dataset.
 - Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
 Hardy-Weinberg principle.
 
+<img class="profile-picture" src="Stochastic.png">
 **Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)**
 - Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
 complex data patterns in mRNA decay biochemical kinetics.
