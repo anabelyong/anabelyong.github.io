@@ -19,6 +19,12 @@ My hobbies include swimming and making hotpot!
 - Mathematical Biology, specifically Stochastic Optimisation in modelling biochemical networks
 - Statistical Machine Learning
 
+## Industry Experience
+1. Part-time Data Scientist @ SAINS Kuching (2023)
+ 
+
+2. Data Science Intern @ Graphcore (2022)
+
 ## Research Experiences
 
 <img class="profile-picture" src="ProteomeHD2.png">
@@ -69,13 +75,6 @@ _Achieved a 90% (A1)_. \\
  <img class="profile-picture" src="DNMT1-pic.png">
 5. DNMT1 methylates hemi-methylated CpGs but not un- methylated CpGs
 [View PDF →](/documents/Structural_Bioinformatics_Project1.pdf)
-
-Several other courseworks in bioinformatics, probabilistic and unsupervised learning, and proteomics which have been the highlights of my academic journey so far.
-
-## Industry Experience
-1. Part-time Data Scientist @ SAINS Kuching (2023)
-
-2. Data Science Intern @ Graphcore (2022)
 
 ## References
 
