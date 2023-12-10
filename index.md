@@ -8,7 +8,7 @@ layout: default
 
 Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
-I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false disocvery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous work here [below](#previous-work).
+I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false disocvery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous work here [below](## Previous work (View Projects for Softwares and Tools Utilized)).
 
 My hobbies include swimming and making hotpot! 
 
