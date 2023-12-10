@@ -70,5 +70,5 @@ Several other courseworks in bioinformatics, probabilistic and unsupervised lear
 
 ## References
 
-* Patrick Heun: Researcher at the Welcome Centre for Cell Biology [Lab](https://www.ed.ac.uk/biology/groups/heunlab)
+* Patrick Heun: [Researcher at the Welcome Centre for Cell Biology Lab](https://www.ed.ac.uk/biology/groups/heunlab)
 * Georg Kustatscher: Researcher at Unviersity of Edinburgh in Computational Proteomics
