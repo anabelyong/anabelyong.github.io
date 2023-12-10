@@ -1,24 +1,24 @@
 title: Anabel Yong
 url: "https://anabelyong.github.io/"
-baseurl: ""
+baseurl: ""  # If your site is at the root domain, this should be empty. Otherwise, it should be "/repository-name"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
-use_tracking: yes  
+# Uncomment and update the following line if you have a tracking ID to use
+# tracking_id: YOUR_GOOGLE_ANALYTICS_TRACKING_ID
 
 footer: no
 footer_url: "https://github.com/anabelyong"
 footer_text: "Page design by Ankit Sultana, for Jekyll based template"
 
 sass:
-    style: compressed
-    sass_dir: _sass
+  style: compressed
+  sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/"
--  name: "Projects"
-   link: "projects"
- - name: "Contact"
-   link: "contact"
+  - name: "About"
+    link: "/"
+  - name: "Projects"
+    link: "/projects"  # Make sure this link is correct. If projects.md is in the root, this is fine.
+  - name: "Contact"
+    link: "/contact"   # Same here, ensure this is the correct link to your contact page.
