@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock1.png">
 
-Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Computer Science, and 2:1 in Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
+Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
 I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false disocvery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous [below](#previous-work).
 
@@ -21,31 +21,20 @@ My hobbies include swimming and making hotpot!
 
 ## Research Experiences
 
-<div class="content-block">
-    <img class="profile-picture" src="ProteomeHD2.png">
-    <div class="text-content">
+<img class="profile-picture" src="ProteomeHD2.png">
 **Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich**
 - Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
 - Implemented this tool for accurate & sensitive protein group FDR method on MaxQuant and Fragpipe database
 outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
 - Controlled false discovery rate for feature selection in human MS-based proteomics dataset (size: 27.1 Gb)
-    </div>
-</div>
 
-<div class="content-block">
-    <img class="profile-picture" src="ABOBlood.png" alt="Profile Picture">
-    <div class="text-content">
+<img class="profile-picture" src="ABOBlood.png">
 **Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)**
 - Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
 dataset.
 - Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
 Hardy-Weinberg principle.
-    </div>
-</div>
 
-<div class="content-block">
-    <img class="profile-picture" src="Stochastic.png" alt="Profile Picture">
-    <div class="text-content">
 **Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)**
 - Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
 complex data patterns in mRNA decay biochemical kinetics.
@@ -53,8 +42,6 @@ complex data patterns in mRNA decay biochemical kinetics.
 Forward Equations (chemical Master Equation).
 - Applied Gibbs sampling (MCMC) and Metropolis Hastings algorithm to investigate consistent genes in the
 bipartite network
-    </div>
-</div>
 
 ## Previous work
 1. Evaluation of different False discovery rate approaches in Large-scale Proteomics Data \\
