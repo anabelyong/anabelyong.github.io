@@ -9,7 +9,7 @@ Here's a selection of projects that I've worked on. For each project, I've inclu
 
 ## Probabilistic and Unsupervised Learning 
 ![Project Image 3](PUSL.png)
-**Description:** Arguably the most interesting and difficult machine learning I have done! This spands from probabilistic modelling with multivariate Gaussians, model selection, expectation maximisation algorithm with binary data, linear gaussian state space models (LGSSMs), Monte Carlo Markov Chain methods (MCMC) for message decryption, Gibbs sampling with latent distributed allocation, and optimization problems. A course requirement for [Gatsby Computational Neuroscience Unit PHD module](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit)
+**Description:** Arguably the most interesting and difficult machine learning I have done! This spans from probabilistic modelling with multivariate Gaussians, model selection, expectation maximisation algorithm with binary data, linear gaussian state space models (LGSSMs), Monte Carlo Markov Chain methods (MCMC) for message decryption, Gibbs sampling with latent distributed allocation, and optimization problems. A course requirement for [Gatsby Computational Neuroscience Unit PHD module](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit)
 - **Technologies used:** Python, MATLAB, Stata
 - **Skills attained:** Unsupervised Learning, Bayesian Statistics, Graphical Models (Markov networks and Bayesian networks) 
 - **[View Project](/documents/PUSL_23205123 (1).pdf)**
@@ -24,7 +24,7 @@ Here's a selection of projects that I've worked on. For each project, I've inclu
 
 ## Evaluation of False Discovery Rate approaches in large-scale proteomics data
 ![Project Image 3](ProteomeHD2.png)
-**Description:** Here, we mathematically investigated different false discovery rate approaches for the identification of proteins and microproteins in ProteomeHD2, which is curated by SILAC quantitation from mass spectrometry. This was processed through bio-softwares MaxQuant, Percolator and Fragpipe to process mass spectrometry fragments from wet-lab experiments (SILAC-based MS). The pgFDR tool was optimized here to maximise the detection of true proteins. Performance of pgFDR tool increased to 58% in ProteomeHD2, created by Georg Kustatscher.[Nature link](https://www.nature.com/articles/s41587-019-0298-5)
+**Description:** Here, we mathematically investigated different false discovery rate approaches for the identification of proteins and microproteins in ProteomeHD2, which is curated by SILAC quantitation from mass spectrometry. This was processed through bio-softwares MaxQuant, Percolator and Fragpipe to process mass spectrometry fragments from wet-lab experiments (SILAC-based MS). The pgFDR tool was optimized here to maximise the detection of true proteins. Performance of pgFDR tool increased to 58% in ProteomeHD2, created by Georg Kustatscher[Nature link](https://www.nature.com/articles/s41587-019-0298-5).
 - **Technologies used:** Python, R
 - **Skills attained:** Bioinformatics, Data Visualisation, Statistical Analysis, Mass spectrometry-based proteomics, machine learning (PCA, t-SNE), Data Extraction Pipeline Development
 - **[View Project](/documents/dissertation.pdf)**
