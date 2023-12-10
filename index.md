@@ -22,7 +22,7 @@ My hobbies include swimming and making hotpot!
 ## Research Experiences
 
 <div class="content-block">
-    <img class="profile-picture" src="ProteomeHD2.png" alt="Profile Picture">
+    <img class="profile-picture" src="ProteomeHD2.png">
     <div class="text-content">
 **Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich**
 - Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
