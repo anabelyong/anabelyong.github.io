@@ -1,4 +1,4 @@
-title: Researcher
+title: Anabel Yong
 url: "https://github.com/anabelyong"
 baseurl: ""
 
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "https://anabelyong.github.io/"
+   link: "/"
 -  name: "Projects"
    link: "projects"
  - name: "Contact"
