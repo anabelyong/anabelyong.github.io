@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biology at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
