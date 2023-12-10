@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock1.png">
 
-Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biology at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
+Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Computer Science, and 2:1 in Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
 
 I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false disocvery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous [below](#previous-work).
 
@@ -63,10 +63,10 @@ _Achieved a 90% (A1)_. \\
 
 Several other courseworks in bioinformatics, probabilistic and unsupervised learning, and proteomics which have been the highlights of my academic journey so far.
 
-## Other experience
+## Industry Experience
 1. Part-time Data Scientist @ SAINS Kuching (2023)
 
-2. Data Science Intern @ Graphcore 
+2. Data Science Intern @ Graphcore (2022)
 
 ## References
 
