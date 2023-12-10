@@ -21,10 +21,10 @@ My hobbies include swimming and making hotpot!
 
 ## Industry Experience
 1. Part-time Data Scientist @ SAINS Kuching (2023)
- 
+- Deployed supervised learning algorithms, including Random Forest Classifiers and Logistic Regression, to predict consumer behaviors in pharmaceutical companies
 
 2. Data Science Intern @ Graphcore (2022)
-
+- Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation. 
 ## Research Experiences
 
 <img class="profile-picture" src="ProteomeHD2.png">
@@ -50,7 +50,7 @@ Forward Equations (chemical Master Equation).
 - Applied Gibbs sampling (MCMC) and Metropolis Hastings algorithm to investigate consistent genes in the
 bipartite network
 
-## Previous work
+## Previous work (View Projects for Softwares and Tools Utilized)
 1. Evaluation of different False discovery rate approaches in Large-scale Proteomics Data \\
 Bachelor's Thesis, supervised by [Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher). \\
 _Achieved an 80% (A2)_. \\
@@ -59,20 +59,17 @@ _Achieved an 80% (A2)_. \\
 2. Random Forest with Bayesian Optimisation for Heart Failure Prediction \\
 [View PDF →](/documents/AI4BH_CW1_23205123.pdf)
 
-<img class="profile-picture" src="GULO_GENE.png">
 3. Using structural bioinformatics approach for GULO functionality \\
 Coursework in Bioinformatics, taught by Ian Murray. \\
 _Achieved a 95% (A1)_. \\
 [View PDF →](/documents/GULO_Bioinformatics.pdf)
  
-<img class="profile-picture" src="MCM.png">
 4. Purification and Quantification of protein-DNA interactions of Minichromosome
 Maintenance Protein (MCM) of Pyrococcus abyssi \\
 Coursework in Structure and Functions of Proteins 3, taught by Paul McLaughlin. \\
 _Achieved a 90% (A1)_. \\
 [View PDF →](/documents/MCM_Protein_Project.pdf)
 
- <img class="profile-picture" src="DNMT1-pic.png">
 5. DNMT1 methylates hemi-methylated CpGs but not un- methylated CpGs
 [View PDF →](/documents/Structural_Bioinformatics_Project1.pdf)
 
