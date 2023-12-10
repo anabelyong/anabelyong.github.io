@@ -49,5 +49,18 @@ or BO have type B. At Hardy-Weinberg equilibrium, the genotype and phenotype fre
 - **[View Project](/documents/AI4BH_CW1_23205123.pdf)**
 - **[Source Code](https://github.com/anabelyong/AI4BH)**
 
+# Biochemistry-focused Projects
+## Investigating molecular mechanism behind DNMT1 methylation of CpG islands
+![Project Image 4](DNMT1.png)
+**Description:** I investigated the molecular mechanism of mouse DNMT1-DNA structures with available PDB structures DNMT1 bound to hemi-methylated DNA (4DA4) and unmethylated DNA (3PT6) found on UniProt and ProteinDataBank. 
+- **Bioinformatics Software & Databases Utilized:** PYMOL, CONSURF, UniProt, ProteinDataBank(PDB)
+- **[View Project](/documents/Structural_Bioinformatics_Project1.pdf)**
+
+## Investigation of molecular mechanism of Minichromosome Maintenance Protein (MCM) protein-DNA interactions 
+![Project Image 4](MCM_protein.png)
+**Description:** Part of my biochemistry module, we utilized both wet lab and bioinformatics approaches to investigate the molecular mechanism of MCM protein. 
+- **Bioinformatics Software & Databases Utilized:** PYMOL, CONSURF, UniProt, ProteinDataBank(PDB)
+- **Skills attained:** Biochemistry, SDS-Page Gel Electrophoresis, Electrophoretic Mobility Shift Assay, Bioinformatics
+- **[View Project](/documents/MCM_Protein_Project.pdf)**
 
 For inquiries or further information about my work, feel free to [email me](mailto:ucabyon@ucl.ac.uk) or check out my [GitHub profile](https://github.com/anabelyong).
