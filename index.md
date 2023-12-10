@@ -32,14 +32,20 @@ outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg 
     </div>
 </div>
 
-<img class="profile-picture" src="ABOBlood.png">
+<div class="content-block">
+    <img class="profile-picture" src="ABOBlood.png" alt="Profile Picture">
+    <div class="text-content">
 **Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)**
 - Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
 dataset.
 - Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
 Hardy-Weinberg principle.
+    </div>
+</div>
 
-<img class="profile-picture" src="Stochastic.png">
+<div class="content-block">
+    <img class="profile-picture" src="Stochastic.png" alt="Profile Picture">
+    <div class="text-content">
 **Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)**
 - Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
 complex data patterns in mRNA decay biochemical kinetics.
@@ -47,6 +53,8 @@ complex data patterns in mRNA decay biochemical kinetics.
 Forward Equations (chemical Master Equation).
 - Applied Gibbs sampling (MCMC) and Metropolis Hastings algorithm to investigate consistent genes in the
 bipartite network
+    </div>
+</div>
 
 ## Previous work
 1. Evaluation of different False discovery rate approaches in Large-scale Proteomics Data \\
