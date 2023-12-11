@@ -20,5 +20,8 @@ nav:
     link: "/"
   - name: "Projects"
     link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
+  - name: "Resume"
+    link: "Resume_Isomorphic_labs.pdf"
+    openInNewTab: Yes
   - name: "Contact"
     link: "/contact"   # Same here, ensure this is the correct link to your contact page.
