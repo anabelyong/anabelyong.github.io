@@ -31,7 +31,7 @@ Here's a selection of projects that I've worked on. For each project, I've inclu
 - **[Source Code](https://github.com/anabelyong/FDREvaluationProteomeHD2)**
   
 # My Past Projects
-## Bayesian MCMC for ABO Blood Fequency Modelling
+## Bayesian MCMC for ABO Blood Frequency Modelling
 ![Bayesian MCMC for ABO Blood Fequency Modelling](ABOBlood.png)
 **Description:** Estimation of allele frequencies in the ABO blood group, The ABO blood type is determined by the presence or absence of the A and B antigens on erythrocytes. It is controlled by a single gene (the ABO gene) with three alleles: I^A, I^B, and i. Here I stands for isoagglutinogen or antigen, while i means absence of either antigen. For convenience we write the three alleles as A,B, and O. As both A and B alleles are dominant over O, genotypes AA or AO both have the same phenotype (type A), and individuals with BB
 or BO have type B. At Hardy-Weinberg equilibrium, the genotype and phenotype frequencies are given as functions of the frequencies of the three alleles, p, q, and r = 1− p−q. The data, X = (nA,nB,nAB,nO), are counts of the four blood types. 
