@@ -12,7 +12,7 @@ Here's a selection of projects that I've worked on. For each project, I've inclu
 **Description:** Arguably the most interesting and difficult machine learning I have done! This spans from probabilistic modelling with multivariate Gaussians, model selection, expectation maximisation algorithm with binary data, linear gaussian state space models (LGSSMs), Monte Carlo Markov Chain methods (MCMC) for message decryption, Gibbs sampling with latent distributed allocation, and optimization problems. A course requirement for [Gatsby Computational Neuroscience Unit PHD module](https://www.ucl.ac.uk/gatsby/gatsby-computational-neuroscience-unit)
 - **Technologies used:** Python, MATLAB, Stata
 - **Skills attained:** Unsupervised Learning, Bayesian Statistics, Graphical Models (Markov networks and Bayesian networks) 
-- **[View Project](/documents/PUSL_23205123 (1).pdf)**
+- **[View Project](COMP0086-summative.pdf)**
 - **[Source Code](https://github.com/anabelyong/probabilistic-unsupervised-learning)**
 
 ## Investigation into Autism Spectrum Disorder with ClinVar, NCBI, BioBank data repositories
