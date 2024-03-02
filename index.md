@@ -13,11 +13,11 @@ I have a strong background in biochemistry, statistical modelling and machine le
 My hobbies include swimming and making hotpot! 
 
 ## Current Work
-**Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/) & [Brooks Paige, UCL](https://tbrx.github.io/) 
+**Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/) & [Brooks Paige, UCL](https://tbrx.github.io/)**
 - Investigating  latent space optimization in deep generative models, subject to constraints, search for representation which decodes high-efficiacy molecules while avoiding highly toxic molcules.
 - Implementing constrained Bayesian Optimization for automatic chemical design using [Grammar Variational Autoencoders](https://arxiv.org/pdf/1906.05221.pdf)
 
-**Statistical Natural Language Processing @ UCL in collaboration with [META](https://about.meta.com/uk/)
+**Statistical Natural Language Processing @ UCL in collaboration with [META](https://about.meta.com/uk/)**
 - Exploring Instruction Following in Large Language Models through decoding strategy [DoLA](https://github.com/voidism/DoLa)
 
 ## Industry Experience
