@@ -12,12 +12,13 @@ I have a strong background in biochemistry, statistical modelling and machine le
 
 My hobbies include swimming and making hotpot! 
 
-## Research Interests
-<!-- TODO: Links to interesting papers -->
-- Geometric Deep Learning in Drug Discovery
-- Computational Biology (proteomics, structural bioinformatics)
-- Mathematical Biology, specifically Stochastic Optimisation in modelling biochemical networks
-- Statistical Machine Learning
+## Current Work
+**Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/) & [Brooks Paige, UCL](https://tbrx.github.io/) 
+- Investigating  latent space optimization in deep generative models, subject to constraints, search for representation which decodes high-efficiacy molecules while avoiding highly toxic molcules.
+- Implementing constrained Bayesian Optimization for automatic chemical design using [Grammar Variational Autoencoders](https://arxiv.org/pdf/1906.05221.pdf)
+
+**Statistical Natural Language Processing @ UCL in collaboration with [META](https://about.meta.com/uk/)
+- Exploring Instruction Following in Large Language Models through decoding strategy [DoLA](https://github.com/voidism/DoLa)
 
 ## Industry Experience
 **Part-time Data Scientist @ [SAINS Kuching, Malaysia](https://www.sains.com.my/) (June 2023)**
@@ -25,9 +26,6 @@ My hobbies include swimming and making hotpot!
 
 **Data Science Intern @ [Graphcore, London, United Kingdom](https://www.graphcore.ai/) (June 2022)**
 - Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
-
-**Data Analyst Intern @ [International Medical University, Malaysia](https://www.imu.edu.my/) (June 2020)**
-- Implemented logistic regression in R for feature importance and selection in EAWAG-BBD database for biodegradation genes.
 
 ## Research Experiences
 
@@ -76,6 +74,5 @@ _Achieved a 90% (A1)_. \\
 [View PDF →](/documents/Structural_Bioinformatics_Project1.pdf)
 
 ## References
-
 * **Patrick Heun**: [Researcher at the Welcome Centre for Cell Biology Lab](https://www.ed.ac.uk/biology/groups/heunlab)
 * **Georg Kustatscher**: [Researcher at Unviersity of Edinburgh in Computational Proteomics](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher)
