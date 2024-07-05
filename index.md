@@ -6,19 +6,16 @@ layout: default
 
 <img class="profile-picture" src="sherlock1.png">
 
-Hi! I'm Anabel. I am a current masters student in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology!
+Hi! I'm Anabel. I hold a Masters in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). I am interested in statistical machine learning, proteomics and computational biology! Currently working on developing a novel Gaussian Process Bayesian Optimization method for molecular optimization !
 
 I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false discovery rate approaches in large-scale proteomics data, which I attained a First Class for. For more details, see my previous work here [below](## Previous work (View Projects for Softwares and Tools Utilized)).
 
-My hobbies include swimming and making hotpot! 
-
-## Current Work
-**Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/) & [Brooks Paige, UCL](https://tbrx.github.io/)**
-- Investigating  latent space optimization in deep generative models, subject to constraints, search for representation which decodes high-efficiacy molecules while avoiding highly toxic molcules.
-- Implementing constrained Bayesian Optimization for automatic chemical design using [Grammar Variational Autoencoders](https://arxiv.org/pdf/1906.05221.pdf)
-
-**Statistical Natural Language Processing @ UCL in collaboration with [META](https://about.meta.com/uk/)**
-- Exploring Instruction Following in Large Language Models through decoding strategy [DoLA](https://github.com/voidism/DoLa)
+## Current Hustle
+**Machine Learning Engineer Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/) **
+- under supervision by [Brooks Paige, UCL](https://tbrx.github.io/) and [Austin Tripp, University of Cambridge](https://www.austintripp.ca/)
+- Benchmarking current generative AI models for practical molecular optimization [PMO Benchmarks](https://github.com/wenhao-gao/mol_opt)
+- Developing a novel Gaussian Process Bayesian Optimization method modelling each molecular property independently using Tanimoto Kernel GPs 
+- Working on Tanimoto Kernel methods to handle molecular fingerprints and multi-objective optimization problems such as Expected Hypervolume Improvement
 
 ## Industry Experience
 **Part-time Data Scientist @ [SAINS Kuching, Malaysia](https://www.sains.com.my/) (June 2023)**
@@ -26,53 +23,3 @@ My hobbies include swimming and making hotpot!
 
 **Data Science Intern @ [Graphcore, London, United Kingdom](https://www.graphcore.ai/) (June 2022)**
 - Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
-
-## Research Experiences
-
-<img class="profile-picture" src="ProteomeHD2.png">
-**Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich**
-- Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
-- Implemented this tool for accurate & sensitive protein group FDR method on MaxQuant and Fragpipe database
-outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
-- Controlled false discovery rate for feature selection in human MS-based proteomics dataset (size: 27.1 Gb)
-
-<img class="profile-picture" src="ABOBlood.png">
-**Statistical Geneticist @ UCL Centre of Computational Biology, under supervision of [Professor ZiHeng Yang and Tomas Fluori](http://abacus.gene.ucl.ac.uk/)**
-- Developed statistical models for predictive phylogenetic analysis on blood allele frequencies provided in a small
-dataset.
-- Implemented Bayesian MCMC algorithm to sample probability distributions in p, q, and r frequencies from
-Hardy-Weinberg principle.
-
-<img class="profile-picture" src="Stochastic.png">
-**Mathematical Biologist @ Centre for Systems Biology Edinburgh, under supervision of [Professor Ramon Grima](https://grimagroup.bio.ed.ac.uk/ramon-grima)**
-- Developed stochastic models (stochastic simulation algorithm) & deterministic models to analyse and predict
-complex data patterns in mRNA decay biochemical kinetics.
-- Conducted extensive research in Continuous Time Markov Chain processes for sampling functional Kolmogorov
-Forward Equations (chemical Master Equation).
-- Applied Gibbs sampling (MCMC) and Metropolis Hastings algorithm to investigate consistent genes in the
-bipartite network
-
-## Previous work (View Projects for Softwares and Tools Utilized)
-1. Evaluation of different False discovery rate approaches in Large-scale Proteomics Data \\
-Bachelor's Thesis, supervised by [Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher). \\
-_Achieved an 80% (A2)_. \\
-[View PDF →](/documents/dissertation.pdf)  
-
-2. Random Forest with Bayesian Optimisation for Heart Failure Prediction \\
-[View PDF →](/documents/AI4BH_CW1_23205123.pdf)
-
-3. Using structural bioinformatics approach for GULO functionality \\
-_Achieved a 95% (A1)_. \\
-[View PDF →](/documents/GULO_Bioinformatics.pdf)
- 
-4. Purification and Quantification of protein-DNA interactions of Minichromosome
-Maintenance Protein (MCM) of Pyrococcus abyssi \\
-_Achieved a 90% (A1)_. \\
-[View PDF →](/documents/MCM_Protein_Project.pdf)
-
-5. DNMT1 methylates hemi-methylated CpGs but not un- methylated CpGs
-[View PDF →](/documents/Structural_Bioinformatics_Project1.pdf)
-
-## References
-* **Patrick Heun**: [Researcher at the Welcome Centre for Cell Biology Lab](https://www.ed.ac.uk/biology/groups/heunlab)
-* **Georg Kustatscher**: [Researcher at Unviersity of Edinburgh in Computational Proteomics](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher)
