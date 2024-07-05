@@ -10,7 +10,7 @@ Hi! I'm Anabel. I hold a Masters in Computational Statistics and Machine Learnin
 
 I am interested in statistical machine learning, proteomics and computational biology! Current machine learning interests include meta learning, gaussian processes and multi-objective bayesian optimization methods. 
 
-I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false discovery rate approaches in large-scale proteomics data. For more details, click on my resume (updated as of October 2023).
+I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false discovery rate approaches in large-scale proteomics data. For more details, click on my **resume (updated as of October 2023).**
 
 ## Current Work
 **Machine Learning Engineer Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
