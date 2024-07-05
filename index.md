@@ -23,3 +23,9 @@ I have a strong background in biochemistry, statistical modelling and machine le
 
 **Data Science Intern @ [Graphcore, London, United Kingdom](https://www.graphcore.ai/) (June 2022)**
 - Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
+
+## Contact Details 
+- **UCL Email:** [ucabyon AT ucl.ac.uk](mailto:ucabyon@ucl.ac.uk)
+- **Personal Email:** [banana180501 AT gmail period com]
+- **GitHub:** [/anabelyong](https://github.com/anabelyong)
+  
