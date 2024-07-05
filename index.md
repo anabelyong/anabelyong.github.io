@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock1.png">
 
-Hi! I'm Anabel. I hold a Masters in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). 
+Hi! I'm Anabel. I hold a Masters in Computational Statistics & Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with 1st Class  Honours in Mathematics & Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). 
 
 I am interested in statistical machine learning and machine learning for drug discovery! Current specific machine learning interests include meta learning, gaussian processes and multi-objective bayesian optimization methods. 
 
