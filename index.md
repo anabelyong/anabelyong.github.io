@@ -16,7 +16,7 @@ I have a strong background in biochemistry, statistical modelling and machine le
 **Machine Learning Engineer Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
 - under supervision by [Brooks Paige, UCL](https://tbrx.github.io/) and [Austin Tripp, University of Cambridge](https://www.austintripp.ca/)
 - Benchmarking current generative AI models for practical molecular optimization [PMO Benchmarks](https://github.com/wenhao-gao/mol_opt)
-- Developing a novel Gaussian Process Bayesian Optimization method modelling each molecular property independently using Tanimoto Kernel GPs 
+- Developing a novel Gaussian Process Bayesian Optimization algorithm modelling each molecular property independently using Tanimoto Kernel GPs 
 - Working on Tanimoto Kernel methods to handle molecular fingerprints and multi-objective optimization problems such as Expected Hypervolume Improvement
 
 ## Industry Experience
