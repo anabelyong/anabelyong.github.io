@@ -8,9 +8,9 @@ layout: default
 
 Hi! I'm Anabel. I hold a Masters in Computational Statistics and Machine Learning at [University College London](https://www.ucl.ac.uk/). I graduated with First Class Honours in Mathematics and Biochemistry at [University of Edinburgh](https://www.ed.ac.uk/). 
 
-I am interested in statistical machine learning, proteomics and computational biology! Current machine learning interests include meta learning, gaussian processes and multi-objective bayesian optimization methods. 
+I am interested in statistical machine learning and machine learning for drug discovery! Current specific machine learning interests include meta learning, gaussian processes and multi-objective bayesian optimization methods. 
 
-I have a strong background in biochemistry, statistical modelling and machine learning, with my Bachelor's thesis on evaluation of false discovery rate approaches in large-scale proteomics data. For more details, click on my **resume (updated as of October 2023).**
+For more details about me, click on my **resume (updated as of October 2023).**
 
 ## Current Work
 **Machine Learning Engineer Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
