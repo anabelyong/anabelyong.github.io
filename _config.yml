@@ -23,5 +23,5 @@ nav:
   - name: "Previous Research Interests"
     link: "/research"   # Same here, ensure this is the correct link to your contact page.
   - name: "Resume"
-    link: "Anabel_CV.pdf"
+    link: "cv.pdf"
     openInNewTab: Yes
