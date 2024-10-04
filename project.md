@@ -4,8 +4,15 @@ title: project
 ---
 
 # Current Highlights
-
 Here's a selection of projects that I've worked on. For each project, I've included a brief description, some of the technologies used, and links to view more details or the source code.
+
+## Gaussian Processes and Multi-Objective Bayesian Optimization 
+![Project Image 3](GP-MOBO.png)
+**Description:** For my masters thesis, we present GP-MOBO, a novel multi-objective Bayesian Optimization algorithm that ad- vances the state-of-the-art in molecular optimization. Our approach integrates a fast minimal package for Exact Gaussian Processes (GPs) capable of efficiently handling the full dimension- ality of sparse molecular fingerprints without the need for extensive computational resources.
+- **Technologies used:** Python
+- **Skills attained:** Multi-Objective Bayesian Optimization, Kernel Methods, Gaussian Processes, Molecular Optimization with Generative Models
+- **[View Project](/documents/23205_GP_MOBO.pdf)**
+- **[Source Code](https://github.com/anabelyong/GP-MOBO)**
 
 ## Probabilistic and Unsupervised Learning 
 ![Project Image 3](PUSL.png)
