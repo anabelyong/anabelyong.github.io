@@ -23,9 +23,6 @@ For more details about me, click on my **resume (updated as of October 2023).**
 **Part-time Data Scientist @ [SAINS Kuching, Malaysia](https://www.sains.com.my/) (June 2023)**
 - Deployed supervised learning algorithms, including Random Forest Classifiers and Logistic Regression, to predict consumer behaviors in pharmaceutical companies
 
-**Data Science Intern @ [Graphcore, London, United Kingdom](https://www.graphcore.ai/) (June 2022)**
-- Implemented A/B testing models, specifically multivariate A/B tests, to compare and evaluate different IPU-powered generative models tailored to dynamics of consumer markets for laboratory automation.
-
 ## Contact Details 
 - **UCL Email:** [ucabyon AT ucl.ac.uk](mailto:ucabyon@ucl.ac.uk)
 - **Personal Email:** [banana180501 AT gmail period com]
