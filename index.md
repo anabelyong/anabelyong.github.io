@@ -14,7 +14,7 @@ For more details about me, click on my **resume (updated as of October 2023).**
 
 ## Current Work
 **Machine Learning Engineer Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
-- under supervision by [Brooks Paige, UCL](https://tbrx.github.io/) and [Austin Tripp, University of Cambridge](https://www.austintripp.ca/)
+- under supervision by [Brooks Paige, UCL](https://tbrx.github.io/), Layla Hosseini-Gerami and [Austin Tripp, University of Cambridge](https://www.austintripp.ca/)
 - Benchmarking current generative AI models for practical molecular optimization [PMO Benchmarks](https://github.com/wenhao-gao/mol_opt)
 - Developing a novel Gaussian Process Bayesian Optimization algorithm modelling each molecular property independently using Tanimoto Kernel GPs 
 - Working on Tanimoto Kernel methods to handle molecular fingerprints and multi-objective optimization problems such as Expected Hypervolume Improvement
