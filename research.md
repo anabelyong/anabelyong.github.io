@@ -4,7 +4,7 @@ layout: default
 ## Research Experiences
 
 <img class="profile-picture" src="ProteomeHD2.png">
-**Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher) and Matthew The, Technical University of Munich**
+**Computational Biologist @ University of Edinburgh, under supervision of [Professor Georg Kustatscher](https://www.ed.ac.uk/biology/wcb/research/research-group-leaders/georg-kustatscher)**
 - Optimised data preprocessing tool for combining multiple large-scale MaxQuant searches on protein group-level [pgFDR](https://github.com/kusterlab/picked_group_fdr), which let to discovering 7000+ novel microproteins
 - Implemented this tool for accurate & sensitive protein group FDR method on MaxQuant and Fragpipe database
 outputs with protein isoforms on ProteomeHD2 dataset curated by Professor Georg Kustatscher
