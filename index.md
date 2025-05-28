@@ -18,9 +18,10 @@ For more details about me, click on my **resume (updated as of October 2024).**
 - Working on probabilistic ML approaches to learn mutation data. 
 
 **Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
-- under supervision by [Brooks Paige, UCL](https://tbrx.github.io/), Layla Hosseini-Gerami and [Austin Tripp, University of Cambridge](https://www.austintripp.ca/)
+- under supervision by [Brooks Paige, UCL](https://tbrx.github.io/), [Austin Tripp, University of Cambridge](https://www.austintripp.ca/) and Layla Hosseini-Gerami
 - Developed a novel Gaussian Process Bayesian Optimization algorithm modelling each molecular property independently using Tanimoto Kernel GPs 
-- Working on Tanimoto Kernel methods to handle molecular fingerprints and multi-objective optimization problems such as Expected Hypervolume Improvement
+- Worked on Tanimoto Kernel methods to handle molecular fingerprints and Multi-objective Bayesian Optimization methods (EHVI).
+
 
 ## Contact Details 
 - **UCL Email:** [ucabyon AT ucl.ac.uk](mailto:ucabyon@ucl.ac.uk)
