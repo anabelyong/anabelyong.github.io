@@ -22,21 +22,6 @@ advances the state-of-the-art in molecular optimization. Our approach integrates
 - **Skills attained:** Unsupervised Learning, Bayesian Statistics, Graphical Models (Markov networks and Bayesian networks) 
 - **[View Project](/documents/PUSL_23205123.pdf)**
 - **[Source Code](https://github.com/anabelyong/probabilistic-unsupervised-learning)**
-
-## Investigation into Autism Spectrum Disorder with ClinVar, NCBI, BioBank data repositories
-![Project Image 3](ASD.png)
-**Description:** Using a bioinformatics and genetic approach to overcome and understand the complexity of this disease, the workflow includes literature mining search to research on gene-ASD associations through Simons Foundation Autism Research Initiative (SFARI) database[6], autism gene analysis by utilizing gene ontology (GO) for attempting to functionally characterize these genes and autism network analysis to decipher which genes interact with each other in certain pathways in autism. Development in this area of research could potentially uncover more accurate molecular mechanisms behind why these mutations occur and how this leads to ASD.
-- **Technologies used:** Python
-- **Bioinformatics Software & Databases Utilized:** BioPython, Gene Ontology (GO), SFARI database, ClinVar, UK BioBank, PantherDB, TOMAS (Topology-aware Meta-analysis)
-- **[View Project](ASD_investigation.pdf)**
-
-## Evaluation of False Discovery Rate approaches in large-scale proteomics data
-![Project Image 3](ProteomeHD2.png)
-**Description:** Here, we mathematically investigated different false discovery rate approaches for the identification of proteins and microproteins in ProteomeHD2, which is curated by SILAC quantitation from mass spectrometry. This was processed through bio-softwares MaxQuant, Percolator and Fragpipe to process mass spectrometry fragments from wet-lab experiments (SILAC-based MS). The pgFDR tool was optimized here to maximise the detection of true proteins. Performance of pgFDR tool increased to 58% in ProteomeHD2, created by Georg Kustatscher[Nature link](https://www.nature.com/articles/s41587-019-0298-5).
-- **Technologies used:** Python, R
-- **Skills attained:** Bioinformatics, Data Visualisation, Statistical Analysis, Mass spectrometry-based proteomics, machine learning (PCA, t-SNE), Data Extraction Pipeline Development
-- **[View Project](/documents/dissertation.pdf)**
-- **[Source Code](https://github.com/anabelyong/FDREvaluationProteomeHD2)**
   
 # My Past Projects
 ## Bayesian MCMC for ABO Blood Frequency Modelling
@@ -55,14 +40,6 @@ or BO have type B. At Hardy-Weinberg equilibrium, the genotype and phenotype fre
 - **Bioinformatics Software & Databases Utilized:** PYMOL, CONSURF, UniProt, ProteinDataBank(PDB), GenBank, NCBI Blastn, Blastp, tBlastn
 - **Skills attained:** Statistical Analysis, Hypothesis Testing, Biochemistry, Gene Ontology
 - **[View Project](/documents/GULO_Bioinformatics.pdf)**
-
-## Random Forest with Bayesian Optimisation for Heart Failure Prediction 
-![Project Image 3](heartpred.png)
-**Description:** One tool that has been used to address this is machine learning (ML). ML has attempted to detect heart disease in previous cases drawing significant attention in medical diagnostics. This is because ML can recognize patterns that are not immediate to human practitioners, by handling large volumes of data, and navigating the complex interactions of the numerous factors associated with heart failure. One such ML model implemented, is the Random Forest (RF) model. Within this study, we explore the reliability of RF for predicting heart failure considering data quality, feature engineering, model performance and hyperparameter tuning with Bayesian Optimisation.
-- **Technologies used:** Python, Kaggle for obtaining clinical dataset
-- **Skills attained:** Feature engineering, Feature Selection, Supervised Learning, Statistical Analysis, Data Visualisation
-- **[View Project](/documents/AI4BH_CW1_23205123.pdf)**
-- **[Source Code](https://github.com/anabelyong/AI4BH)**
 
 # Biochemistry-focused Projects
 ## Investigating molecular mechanism behind DNMT1 methylation of CpG islands
