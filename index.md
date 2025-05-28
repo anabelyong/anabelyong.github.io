@@ -10,8 +10,6 @@ Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statist
 
 I am interested in probabilistic machine learning, machine learning for drug discovery and learning biological data! Current specific machine learning interests include kernel methods, gaussian processes and multi-objective bayesian optimization methods. 
 
-For more details about me, click on my **resume (updated as of October 2024).**
-
 ## Current Machine Learning Research
 **Visiting Scholar in Machine Learning @ [National University of Singapore](https://nus.edu.sg/)**
 - under supervision by [Jonathan Scarlett, NUS](https://www.comp.nus.edu.sg/~scarlett/index.html)
