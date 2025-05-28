@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock1.png">
+<img class="profile-picture" src="profile.png">
 
 Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statistics and Machine Learning with Distinction @ [UCL](https://www.ucl.ac.uk/). I graduated with 1st Class  Honours in Mathematics & Biology at [University of Edinburgh](https://www.ed.ac.uk/). 
 
