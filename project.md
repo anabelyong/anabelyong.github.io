@@ -22,6 +22,21 @@ advances the state-of-the-art in molecular optimization. Our approach integrates
 - **Skills attained:** Unsupervised Learning, Bayesian Statistics, Graphical Models (Markov networks and Bayesian networks) 
 - **[View Project](/documents/PUSL_23205123.pdf)**
 - **[Source Code](https://github.com/anabelyong/probabilistic-unsupervised-learning)**
+
+## Statistical Natural Language Processing 
+![Project Image 3](NLP.png)
+**Description:** This project adapts the DoLa contrastive decoding method to encoder-decoder models like T5 and FLAN-T5 to improve instruction-following performance. While DoLa improves faithfulness in certain tasks (e.g., keyword inclusion), it harms others, highlighting its context-dependent effectiveness.
+- **Technologies used:** Python
+- **Skills attained:** LLM hallucinations, Contrastive Decoding strategies for LLMs 
+- **[View Project](/documents/LAFHH.pdf)**
+- **[Source Code](https://github.com/itshuey/DoLa-FLAN)**
+
+## Numerical Optimization: Developing A New Subspace Newton Method!
+**Description:** This project implements a Subspace Newton Method for Sparse SVMs (NSSVM) to solve large-scale binary classification problems efficiently using a sparsity-constrained kernel-based optimization. The method achieves fast convergence, reduced model complexity, and competitive accuracy by adaptively tuning the number of support vectors and exploiting strong convexity in the dual formulation.
+- **Technologies used:** Python
+- **Skills attained:** Sparsity-Constrained Optimization, Subspace Newton Method, Quasi-Newton methods (e.g., BFGS, L-BFGS), Lipschitz continuity
+- **[View Project](/documents/subspace_newton_method.pdf)**
+- **[Source Code](https://github.com/anabelyong/NSSVM-python)**
   
 # My Past Projects
 ## Bayesian MCMC for ABO Blood Frequency Modelling
