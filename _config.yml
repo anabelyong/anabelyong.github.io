@@ -24,5 +24,5 @@ nav:
     link: "/research"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
   - name: "CV"
-    link: "/cv" 
+    link: "/cv.pdf" 
 
