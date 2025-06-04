@@ -24,4 +24,4 @@ nav:
     link: "/research"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
   - name: "Resume"
-    link: "cv.pdf"
+    link: "https://raw.githubusercontent.com/notpaulmartin/anabelyong.github.io/cv.pdf"
