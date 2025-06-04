@@ -32,6 +32,7 @@ advances the state-of-the-art in molecular optimization. Our approach integrates
 - **[Source Code](https://github.com/itshuey/DoLa-FLAN)**
 
 ## Numerical Optimization: Developing A New Subspace Newton Method!
+![Project Image 3](NSSVM.png)
 **Description:** This project implements a Subspace Newton Method for Sparse SVMs (NSSVM) to solve large-scale binary classification problems efficiently using a sparsity-constrained kernel-based optimization. The method achieves fast convergence, reduced model complexity, and competitive accuracy by adaptively tuning the number of support vectors and exploiting strong convexity in the dual formulation.
 - **Technologies used:** Python
 - **Skills attained:** Sparsity-Constrained Optimization, Subspace Newton Method, Quasi-Newton methods (e.g., BFGS, L-BFGS), Lipschitz continuity
