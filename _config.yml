@@ -23,3 +23,6 @@ nav:
   - name: "Previous Research Interests"
     link: "/research"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
+  - name: "CV"
+    link: "/cv" 
+
