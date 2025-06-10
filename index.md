@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.png">
 
-Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statistics and Machine Learning with Distinction @ [UCL](https://www.ucl.ac.uk/). I graduated with 1st Class  Honours in Mathematics & Biology at [University of Edinburgh](https://www.ed.ac.uk/). 
+Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statistics and Machine Learning with Distinction @ [UCL](https://www.ucl.ac.uk/). I hold a Bachelors degree in Mathematics and Biology [University of Edinburgh](https://www.ed.ac.uk/). 
 
 I am interested in probabilistic machine learning, machine learning for drug discovery and learning biological data! Current specific machine learning interests include kernel methods, gaussian processes and multi-objective bayesian optimization methods. 
 
