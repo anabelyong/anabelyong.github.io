@@ -1,0 +1,16 @@
+---
+layout: default
+title: ML Posts
+---
+
+# My thoughts and opinions for Bayesian Machine Learning. 
+I want to document my journey in Machine Learning where I stamp interesting frameworks and why I find them interesting. 
+A reminder to self: Great ideas do not come from nowhere. They are derived from fundamental concepts, collaboration, and lots of trial and error. 
+## 31/10/2025: Bayesian Optimal Experimental Design (why Expected Information Gain?)
+**Description:** I wanted to investigate the origin story for [InfoBAX](https://arxiv.org/abs/2104.09460), have a short introduction on BOED. How and why the ideas of info-theoretic BO came around. 
+**Useful Resources:**
+- **Bayesian Optimal Experimental Design notes:** Desi Ivanova does a great simple introduction and visualization to BOED. Here: [Desi's 7 min Read](https://desirivanova.com/post/boed-intro/)
+- **InfoBAX:** Willie Neiswanger does a great talk on InfoBAX I really loved. Here: [Willie Neiswanger's Presentation](https://stanford.zoom.us/rec/share/1ASiyhRzE34CVbW3-2oiwJqBc69RnDe6QlVuwVxY6hui_mJDBV3_5rkD-j7zirWD.tF6pyVfWGcbpa_5C)
+- **My thoughts on InfoBAX:** [InfoBAX_insights](/documents/infobax_insights.pdf)
+- **Relevant Concepts:** [Lindley's EIG](https://projecteuclid.org/euclid.aoms/1177728069), [Hennig's Entropy Search](https://arxiv.org/abs/1112.1217), [Krause's Mutual Information Maximization](https://jmlr.org/papers/v9/krause08a.html), [A Geneticist's Approximate Bayesian Computation demonstration](https://pubmed.ncbi.nlm.nih.gov/10605120/).
+
