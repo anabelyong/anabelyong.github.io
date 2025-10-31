@@ -16,16 +16,16 @@ sass:
   sass_dir: _sass
 
 nav:
-  - name: "About"
+  - name: "ABOUT"
     link: "/"
-  - name: "Projects"
+  - name: "PROJECTS"
     link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
-  - name: "Previous Research Interests"
-    link: "/research"   # Same here, ensure this is the correct link to your contact page.
-    openInNewTab: Yes
-  - name: "ML Posts"
+  - name: "MACHINE LEARNING BLOG"
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
-  - name: "Resume"
+  - name: "MISC"
+    link: "/research"   # Same here, ensure this is the correct link to your contact page.
+    openInNewTab: Yes
+  - name: "RESUME"
     link: "resume.pdf"
   
