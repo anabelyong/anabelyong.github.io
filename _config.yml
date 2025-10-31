@@ -14,7 +14,9 @@ footer_text: "Page design by Ankit Sultana, for Jekyll based template"
 sass:
   style: compressed
   sass_dir: _sass
-
+# - name: "MISC"
+#   link: "/research"   # Same here, ensure this is the correct link to your contact page.
+#   openInNewTab: Yes
 nav:
   - name: "ABOUT"
     link: "/"
@@ -22,9 +24,6 @@ nav:
     link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
   - name: "MACHINE LEARNING BLOG"
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
-    openInNewTab: Yes
-  - name: "MISC"
-    link: "/research"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
   - name: "RESUME"
     link: "resume.pdf"
