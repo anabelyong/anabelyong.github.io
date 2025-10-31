@@ -11,6 +11,6 @@ A reminder to self: Great ideas do not come from nowhere. They are derived from 
 **Useful Resources:**
 - **Bayesian Optimal Experimental Design notes:** Desi Ivanova does a great simple introduction and visualization to BOED. Here: [Desi's 7 min Read](https://desirivanova.com/post/boed-intro/)
 - **InfoBAX:** Willie Neiswanger does a great talk on InfoBAX I really loved. Here: [Willie Neiswanger's Presentation](https://stanford.zoom.us/rec/share/1ASiyhRzE34CVbW3-2oiwJqBc69RnDe6QlVuwVxY6hui_mJDBV3_5rkD-j7zirWD.tF6pyVfWGcbpa_5C)
-- **My thoughts on InfoBAX:** [InfoBAX_insights](/documents/infobax_insights.pdf)
+- **My thoughts on InfoBAX:** [InfoBAX_insights](/documents/InfoBAX_insights.pdf)
 - **Relevant Concepts:** [Lindley's EIG](https://projecteuclid.org/euclid.aoms/1177728069), [Hennig's Entropy Search](https://arxiv.org/abs/1112.1217), [Krause's Mutual Information Maximization](https://jmlr.org/papers/v9/krause08a.html), [A Geneticist's Approximate Bayesian Computation demonstration](https://pubmed.ncbi.nlm.nih.gov/10605120/).
 
