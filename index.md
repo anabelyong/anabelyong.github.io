@@ -13,7 +13,7 @@ I am interested in probabilistic machine learning, machine learning for drug dis
 ## Current Machine Learning Research
 **Visiting Scholar in Machine Learning @ [National University of Singapore](https://nus.edu.sg/)**
 - under supervision by [Jonathan Scarlett, NUS](https://www.comp.nus.edu.sg/~scarlett/index.html)
-- Working on probabilistic ML approaches to learn mutation data. 
+- Researching molecular optimization with Bayesian diverse optimization methods.  
 
 **Machine Learning Research Intern @ [IgnotaLabs.AI](https://ignotalabs.ai/)**
 - under supervision by [Brooks Paige, UCL](https://tbrx.github.io/), [Austin Tripp, University of Cambridge](https://www.austintripp.ca/) and Layla Hosseini-Gerami
