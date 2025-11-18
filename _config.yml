@@ -22,7 +22,7 @@ nav:
     link: "/"
   - name: "PROJECTS"
     link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
-  - name: "MACHINE LEARNING BLOG"
+  - name: "NOTES"
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
   - name: "RESUME"
