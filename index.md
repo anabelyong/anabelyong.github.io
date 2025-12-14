@@ -16,6 +16,6 @@ Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statist
 ### MAY 30TH, 2024: Interned at [IgnotaLabs.AI](https://ignotalabs.ai/) to do some cool Gaussian Process, Multi-Objective Bayesian Optimization research with [Austin Tripp, University of Cambridge](https://www.austintripp.ca/), [Brooks Paige, UCL](https://tbrx.github.io/), and [Layla Hosseini-Gerami](https://www.alumni.cam.ac.uk/experimental-spirit-layla-hosseini-gerami).
 
 ## Contact 
-- **Email:** [ay180501@gmail.com][mailto:ay180501@gmail.com]
+- **Email:** [ay180501@gmail.com](mailto:ay180501@gmail.com)
 - **GitHub:** [/anabelyong](https://github.com/anabelyong)
   
