@@ -2,19 +2,68 @@
 ---
 @import "style";
 
+/* =========================
+   Global font definitions
+   ========================= */
+
+:root {
+  --font-sans: 'Karla', -apple-system, BlinkMacSystemFont,
+               'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+
+  --font-mono: 'JetBrains Mono Variable', ui-monospace,
+               SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+}
+
+/* =========================
+   Apply Karla everywhere
+   ========================= */
+
+html, body {
+  font-family: var(--font-sans);
+  font-weight: 400;
+  line-height: 1.6;
+  font-feature-settings: "kern", "liga";
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-sans);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Navigation + footer (themes often override these) */
+.navbar,
+.navbar a,
+#author-name,
+footer,
+footer * {
+  font-family: var(--font-sans);
+}
+
+/* Monospace ONLY for code */
+code, pre, kbd, samp {
+  font-family: var(--font-mono);
+  font-size: 0.95em;
+}
+
+/* =========================
+   Your existing layout styles
+   ========================= */
+
 .content-block {
-    display: flex;
-    align-items: flex-start; /* Aligns the content to the top */
-    margin-bottom: 20px; /* Adds space between the content blocks */
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
 }
 
 .profile-picture {
-    width: 150px; /* Set the width you desire */
-    height: 150px; /* Set the height you desire */
-    border-radius: 0; /* Removes any existing border-radius for a square shape */
-    margin-right: 20px; /* Adds space between the image and the text */
+  width: 250px;
+  height: 250px;
+  border-radius: 0;
+  margin-right: 20px;
 }
 
 .text-content {
-    flex: 1; /* Takes up the remaining space */
+  flex: 1;
 }
