@@ -47,12 +47,28 @@
     <meta name="twitter:title" content="{{ site.title }}">
     <meta name="twitter:description" content="{{ desc }}">
     <meta name="twitter:url" content="{{ url }}">
-    {% if site.twitter_image %}
+        {% if site.twitter_image %}
         <meta name="twitter:image" content="{{ site.twitter_image }}">
     {% else %}
         <meta name="twitter:image" content="{{ site.profile_picture }}">
     {% endif %}
+
+    <!-- MathJax for LaTeX rendering -->
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          processEscapes: true
+        }
+      };
+    </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+      async>
+    </script>
 </head>
+
 <body>
     <div class="wrapper">
         <div class="navbar container">
