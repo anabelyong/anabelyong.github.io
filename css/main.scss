@@ -15,14 +15,26 @@
 }
 
 /* =========================
-   Apply Karla everywhere
+   Base typography (CONSISTENCY)
    ========================= */
 
-html, body {
+html {
+  font-size: 17px; /* controls everything; try 16–18 */
+}
+
+body {
   font-family: var(--font-sans);
   font-weight: 400;
-  line-height: 1.6;
+  line-height: 1.65;
   font-feature-settings: "kern", "liga";
+  color: #222;
+}
+
+/* Make all common text elements consistent */
+p, li {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.7;
 }
 
 /* Headings */
@@ -30,7 +42,15 @@ h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-sans);
   font-weight: 600;
   letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-top: 1.6rem;
+  margin-bottom: 0.8rem;
 }
+
+/* Keep heading sizes predictable (theme sometimes overrides) */
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.6rem; }
+h3 { font-size: 1.25rem; }
 
 /* Navigation + footer (themes often override these) */
 .navbar,
@@ -39,6 +59,7 @@ h1, h2, h3, h4, h5, h6 {
 footer,
 footer * {
   font-family: var(--font-sans);
+  font-size: 1rem;
 }
 
 /* Monospace ONLY for code */
@@ -48,22 +69,66 @@ code, pre, kbd, samp {
 }
 
 /* =========================
-   Your existing layout styles
+   About intro layout (THIS FIXES YOUR ISSUE)
    ========================= */
 
-.content-block {
+.about-intro {
   display: flex;
   align-items: flex-start;
-  margin-bottom: 20px;
+  gap: 2rem;
+  margin: 2rem 0 1.5rem;
 }
 
-.profile-picture {
-  width: 250px;
-  height: 250px;
-  border-radius: 0;
-  margin-right: 20px;
+/* Make sure theme image rules can't override */
+.about-intro img.profile-picture {
+  width: 240px !important;       /* adjust 220–280 */
+  height: 240px !important;
+  max-width: none !important;    /* stops theme from auto-scaling */
+  border-radius: 999px;
+  object-fit: cover;
+  display: block;
+  flex: 0 0 auto;
+  margin: 0 !important;
 }
 
-.text-content {
+/* Text block next to the image */
+.about-text {
   flex: 1;
+  min-width: 0;
+}
+
+/* Remove extra top margin on the About heading (looks cleaner) */
+.about-text h2 {
+  margin-top: 0;
+}
+
+/* =========================
+   Lists styling (News / Contact)
+   ========================= */
+
+.news-list,
+.contact-list {
+  padding-left: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.news-list li,
+.contact-list li {
+  margin: 0.5rem 0;
+}
+
+/* =========================
+   Mobile responsiveness
+   ========================= */
+
+@media (max-width: 720px) {
+  .about-intro {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .about-intro img.profile-picture {
+    width: 180px !important;
+    height: 180px !important;
+  }
 }
