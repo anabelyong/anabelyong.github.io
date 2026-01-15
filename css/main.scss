@@ -84,7 +84,7 @@ code, pre, kbd, samp {
   width: 240px !important;       /* adjust 220–280 */
   height: 240px !important;
   max-width: none !important;    /* stops theme from auto-scaling */
-  border-radius: 999px;
+  border-radius: 0;
   object-fit: cover;
   display: block;
   flex: 0 0 auto;
