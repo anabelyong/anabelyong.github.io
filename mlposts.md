@@ -13,7 +13,7 @@ A generative model encodes a joint distribution $p(X)$ over many variables $X$. 
 This motivates the design of tractable model classes - models for which inference is guaranteed to be efficient. I attempt to summarise key ideas in my notes below on Probabilistic Circuits, a line of work driven by Guy van der Broeck and collaborators that advances tractable, rather than approximante, probabilistic inference. Here are the resources: 
 - **UCLA StarAI Lab's 3 hour Lecture:** The first two hours of this provides a great introduction to PCs (if you have a nice intuition on probability on marginals and conditionals). [YOUTUBE Video](https://www.youtube.com/watch?v=2RAG5-L9R70)
 - **Anji Liu's Notebook Tutorials:** Am personally still navigating this PyJuice framework myself. [PyJuice Tutorials](https://tractables.github.io/pyjuice/getting-started/tutorials/01_train_pc.html#sphx-glr-getting-started-tutorials-01-train-pc-py)
-- **My notes on PCs:** [Anabel's Introduction to PCs](/documents/prob_circ_notes.pdf)
+- **My notes on PCs:** [Fundamentals in Probability for PCs](/documents/fundamentals_pcs.pdf), [Anabel's Introduction to PCs](/documents/prob_circ_notes.pdf)
 - **Relevant Concepts:** [Logic Gates](https://www.geeksforgeeks.org/digital-logic/introduction-of-logic-gates/) (useful to know AND/OR/XOR nodes), [Sum-Product Networks (SPNs)](https://proceedings.mlr.press/v28/gens13.html). 
 
 
