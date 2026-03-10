@@ -19,6 +19,18 @@ layout: default
 <h2>News</h2>
 <ul class="news-list">
   <li>
+    <strong>Mar 9, 2026:</strong>
+    Researching expressitivity of probabilistic circuits with
+    <a href="https://liuanji.github.io/" target="_blank" rel="noopener">
+      Anji Liu 
+    </a>
+    </a>
+    at
+    <a href="https://nus.edu.sg/" target="_blank" rel="noopener">
+      National University of Singapore
+    </a>
+  </li>
+  <li>
     <strong>Sept 29, 2025:</strong>
     <a href="https://arxiv.org/abs/2507.13704" target="_blank" rel="noopener">
       Bayesian Optimization for Molecules should be Pareto-aware
@@ -57,5 +69,6 @@ layout: default
 <h2>Contact</h2>
 <ul class="contact-list">
   <li><strong>Email:</strong> <a href="mailto:ay180501@gmail.com">ay180501@gmail.com</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a>
+  <li><strong>Read my SubStack:</strong> <a href="https://substack.com/@bananabelyong">Anabel's Substack</a></</li>
 </ul>
