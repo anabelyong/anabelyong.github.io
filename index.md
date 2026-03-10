@@ -24,7 +24,6 @@ layout: default
     <a href="https://liuanji.github.io/" target="_blank" rel="noopener">
       Anji Liu 
     </a>
-    </a>
     at
     <a href="https://nus.edu.sg/" target="_blank" rel="noopener">
       National University of Singapore
@@ -69,6 +68,10 @@ layout: default
 <h2>Contact</h2>
 <ul class="contact-list">
   <li><strong>Email:</strong> <a href="mailto:ay180501@gmail.com">ay180501@gmail.com</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a>
-  <li><strong>Read my SubStack:</strong> <a href="https://substack.com/@bananabelyong">Anabel's Substack</a></</li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a></li>
+  <li>
+    <strong>Read my Substack:</strong> 
+    <a href="https://substack.com/@bananabelyong">Anabel's Substack</a>
+    <span class="substack-note">(blog for my life experiences✨)</span>
+  </li>
 </ul>
