@@ -19,6 +19,11 @@ layout: default
 <h2>News</h2>
 <ul class="news-list">
   <li>
+  <strong>Apr 22, 2026:</strong>
+  I now understand probabilistic circuits much better, especially their connection to EM and trust-region ideas.
+  (<a href="https://anabelyong.github.io/documents/anemone.pdf" target="_blank" rel="noopener">ANEMONE and Trust Regions</a>)
+  </li>
+  <li>
     <strong>Mar 9, 2026:</strong>
     Researching expressitivity of probabilistic circuits with
     <a href="https://liuanji.github.io/" target="_blank" rel="noopener">
