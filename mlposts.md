@@ -12,7 +12,7 @@ A reminder to self: Great ideas do not come from nowhere. They are derived from 
 A generative model encodes a joint distribution $p(X)$ over many variables $X$. Even answering a simple equestion like "What is the probability that it is raining today  and Anabel is going to eat hotpot soup?" requires computing a marginal probability: $p(E=e) = \sum_H p(e,H)$ where $E$ is an observed event and $H$ represents all other hidden variables. For general graphical models, this summation is \#P-hard, meaning it is computationally intractable in the worst case. This motivates the design of tractable model classes - models for which inference is guaranteed to be efficient. 
 - **Anji Liu's Notebook Tutorials:** Am personally still navigating this PyJuice framework myself. [PyJuice Tutorials](https://tractables.github.io/pyjuice/getting-started/tutorials/01_train_pc.html#sphx-glr-getting-started-tutorials-01-train-pc-py)
 - **My notes on PCs:** [Fundamentals in Probability for PCs](/documents/fundamentals_pcs.pdf), [Anabel's Toy Example for PCs](/documents/pc_example.pdf)
-
+  **Intuition on ANEMONE:**[Trust Regions, ANEMONE, ML Jargon](/documents/anemone.pdf)
 
 ## 31/10/2025: Bayesian Optimal Experimental Design (why Expected Information Gain?)
 I wanted to investigate the origin story for [InfoBAX](https://arxiv.org/abs/2104.09460), have a short introduction on BOED. How and why the ideas of info-theoretic BO came around. 
