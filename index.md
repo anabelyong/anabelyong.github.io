@@ -7,8 +7,10 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      Hi! I'm Anabel. I've recently graduated from my Masters in Computational Statistics
-      and Machine Learning with Distinction @
+      Hi! I'm Anabel! I'm an incoming PhD student @ 
+      <a href="https://www.epfl.ch/education/phd/programs/" target="_blank" rel="noopener">EPFL, Lausanne</a> under supervision of 
+      <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Philippe Schwaller, Laboratory of Artificial Chemical Intelligence (LIAC)</a>. 
+      I graduated from my Masters in Computational Statistics and Machine Learning with Distinction @
       <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">UCL</a>.
       I hold a Bachelors degree in Mathematics and Biology from
       <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>.
@@ -18,11 +20,6 @@ layout: default
 
 <h2>News</h2>
 <ul class="news-list">
-  <li>
-  <strong>Apr 22, 2026:</strong>
-  I now understand probabilistic circuits much better, especially their connection to EM and trust-region ideas.
-  (<a href="https://anabelyong.github.io/documents/anemone.pdf" target="_blank" rel="noopener">ANEMONE and Trust Regions</a>)
-  </li>
   <li>
     <strong>Mar 9, 2026:</strong>
     Researching expressitivity of probabilistic circuits with
