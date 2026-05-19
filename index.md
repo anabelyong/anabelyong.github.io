@@ -9,7 +9,7 @@ layout: default
     <p>
       Hi! I'm Anabel! I graduated from my Masters in Computational Statistics and Machine Learning with Distinction @
       <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">UCL</a>.
-      I hold a Bachelors degree in Mathematics and Biology from
+      I hold a Bachelors degree from
       <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>.
     </p>
   </div>
