@@ -7,10 +7,11 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      Hi! I'm Anabel! I graduated from my Masters in Computational Statistics and Machine Learning with Distinction @
+      Hi! I'm Anabel! I'm a PhD student @ <a href="https://www.epfl.ch/education/phd/programs/" target="_blank" rel="noopener">EPFL,     Lausanne</a> with <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Philippe Schwaller, Laboratoire d’intelligence artificielle en chimie (LIAC)</a>. 
+      I graduated from my Masters in Computational Statistics and Machine Learning with Distinction @
       <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">UCL</a>.
       I hold a Bachelors degree from
-      <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>.
+      <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>. Generally interested in probabilistic machine learning such as Gaussian Processes and Bayesian Optimisation, and AI4Science. 
     </p>
   </div>
 </div>
@@ -68,9 +69,4 @@ layout: default
 <ul class="contact-list">
   <li><strong>Email:</strong> <a href="mailto:ay180501@gmail.com">ay180501@gmail.com</a></li>
   <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a></li>
-  <li>
-    <strong>Read my Substack:</strong> 
-    <a href="https://substack.com/@bananabelyong">Anabel's Substack</a>
-    <span class="substack-note">(blog for my life experiences✨)</span>
-  </li>
 </ul>
