@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<div class="about-intro">
-  <img class="profile-picture" src="profile.png" alt="Photo of Anabel Yong">
+<div class="about-intro"> 
+  <img class="profile-picture" src="profile.png" alt="Photo of Anabel Yong" style="width: 1000px; height: 1200px; object-fit: cover;"> 
   <div class="about-text">
     <h2>About Me</h2>
     <p>
@@ -23,6 +23,10 @@ layout: default
     </p>
   </div>
 </div>
+
+<h2>Collaboration</h2> 
+<p> <strong>Industry &amp; Researchers —</strong> I'm open to collaborations on uncertainty quantification, probabilistic models, and AI for scientific discovery (more specifically for MOFs). If my work aligns with your team's interests, feel free to <a href="mailto:anabel.yong@epfl.ch">get in touch</a>. 
+</p> <p> <strong>Students —</strong> Happy to discuss ideas and share findings. I can commit (time-permitting) to projects feasible with moderate compute. I'd love to work together with internal EPFL students through semester projects, or with students/peers from anywhere in the world — especially on AI for scientific discovery and MOF (metal-organic framework) discovery. </p>
 
 <h2>News</h2>
 <ul class="news-list">
