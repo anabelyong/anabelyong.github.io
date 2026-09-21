@@ -30,7 +30,7 @@ nav:
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
   - name: "COLLABORATIONS"
-    link: "/contact"
+    link: "/collaborations"
   - name: "RESUME"
     link: "resume.pdf"
     
