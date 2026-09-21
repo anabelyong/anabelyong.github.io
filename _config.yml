@@ -20,6 +20,8 @@ sass:
 nav:
   - name: "ABOUT"
     link: "/"
+  - name: "COLLABORATIONS"
+    link: "/collaborations"
   - name: "NEWS"
     link: "/news"
     openInNewTab: Yes
@@ -29,8 +31,6 @@ nav:
   - name: "NOTES"
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
-  - name: "COLLABORATIONS"
-    link: "/collaborations"
   - name: "RESUME"
     link: "resume.pdf"
     
