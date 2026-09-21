@@ -26,7 +26,7 @@ layout: default
 
 <h2>Collaboration</h2> 
 <p> <strong>Industry &amp; Researchers —</strong> I'm open to collaborations on uncertainty quantification, probabilistic models, and AI for scientific discovery (more specifically for MOFs). If my work aligns with your team's interests, feel free to <a href="mailto:anabel.yong@epfl.ch">get in touch</a>. 
-</p> <p> <strong>Students —</strong> Happy to discuss ideas and share findings. I can commit (time-permitting) to projects feasible with moderate compute. I'd love to work together with internal EPFL students through semester projects, or with students/peers from anywhere in the world — especially on AI for scientific discovery and MOF (metal-organic framework) discovery. </p>
+</p> <p> <strong>Students —</strong> I welcome inquiries from EPFL students (e.g., for semester projects) and external researchers interested in AI for scientific discovery and MOF design. <a href="mailto:anabel.yong@epfl.ch">Get in touch with my EPFL email!</a> </p>
 
 <h2>News</h2>
 <ul class="news-list">
