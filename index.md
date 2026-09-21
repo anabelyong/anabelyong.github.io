@@ -7,11 +7,19 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      Hi! I'm Anabel! I'm a PhD student @ <a href="https://www.epfl.ch/education/phd/programs/" target="_blank" rel="noopener">EPFL,     Lausanne</a> with <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Philippe Schwaller, Laboratoire d’intelligence artificielle en chimie (LIAC)</a>. 
-      I graduated from my Masters in Computational Statistics and Machine Learning with Distinction @
-      <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">UCL</a>.
-      I hold a Bachelors degree from
-      <a href="https://www.ed.ac.uk/" target="_blank" rel="noopener">University of Edinburgh</a>. Generally interested in probabilistic machine learning such as Gaussian Processes and Bayesian Optimisation, and AI4Science. 
+      I'm a PhD candidate at <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Laboratory of Artificial Chemical Intelligence (LIAC), EPFL</a>,
+      advised by <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Prof. Philippe Schwaller</a>.
+      My research builds uncertainty-aware, data-efficient models for accelerating the discovery of novel molecules and materials.
+    </p>
+    <p>
+      Previously: <a href="https://www.comp.nus.edu.sg/" target="_blank" rel="noopener">Department of Computer Science, National University of Singapore (NUS)</a>;
+      MSc Computational Statistics &amp; Machine Learning (Distinction) at
+      <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">University College London (UCL).</a>
+    </p>
+    <p class="contact-inline">
+      <a href="mailto:anabel.yong@epfl.ch">Email</a> &nbsp;·&nbsp;
+      <a href="https://github.com/anabelyong" target="_blank" rel="noopener">GitHub</a> &nbsp;·&nbsp;
+      <a href="https://scholar.google.com/citations?user=SaV1hx0AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
     </p>
   </div>
 </div>
@@ -19,54 +27,21 @@ layout: default
 <h2>News</h2>
 <ul class="news-list">
   <li>
-    <strong>Mar 9, 2026:</strong>
-    Researching expressitivity of probabilistic circuits with
-    <a href="https://liuanji.github.io/" target="_blank" rel="noopener">
-      Anji Liu 
-    </a>
-    at
-    <a href="https://nus.edu.sg/" target="_blank" rel="noopener">
-      National University of Singapore
-    </a>
+    <strong>Sept 2025:</strong>
+    <a href="https://arxiv.org/abs/2507.13704" target="_blank" rel="noopener">Bayesian Optimization for Molecules should be Pareto-aware</a>
+    accepted as a poster at the <a href="https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science" target="_blank" rel="noopener">NeurIPS 2025 AI4Science Workshop</a>.
   </li>
   <li>
-    <strong>Sept 29, 2025:</strong>
-    <a href="https://arxiv.org/abs/2507.13704" target="_blank" rel="noopener">
-      Bayesian Optimization for Molecules should be Pareto-aware
-    </a>
-    accepted as a poster at
-    <a href="https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/AI4Science#tab-your-consoles" target="_blank" rel="noopener">
-      NeurIPS 2025: AI4Science Workshop
-    </a>.
+    <strong>May 2025:</strong>
+    Visiting <a href="https://www.comp.nus.edu.sg/~scarlett/index.html" target="_blank" rel="noopener">Jonathan Scarlett</a>
+    at NUS to work on uncertainty-aware Bayesian optimization for molecular design.
   </li>
   <li>
-    <strong>May 2, 2025:</strong>
-    Visiting
-    <a href="https://www.comp.nus.edu.sg/~scarlett/index.html" target="_blank" rel="noopener">
-      Jonathan Scarlett
-    </a>
-    at
-    <a href="https://nus.edu.sg/" target="_blank" rel="noopener">
-      National University of Singapore
-    </a>
-    to design Bayesian optimization algorithms for molecules.
+    <strong>May 2024:</strong>
+    Research intern at <a href="https://ignotalabs.ai/" target="_blank" rel="noopener">IgnotaLabs.AI</a>
+    on Gaussian processes and multi-objective Bayesian optimization, with
+    <a href="https://www.austintripp.ca/" target="_blank" rel="noopener">Austin Tripp (Cambridge MLG)</a>,
+    <a href="https://tbrx.github.io/" target="_blank" rel="noopener">Brooks Paige (UCL)</a>, and
+    <a href="https://scholar.google.com/citations?user=nUgXUcYAAAAJ&hl=en" target="_blank" rel="noopener">Layla Hosseini-Gerami (IgnotaLabs.AI)</a>.
   </li>
-  <li>
-    <strong>May 30, 2024:</strong>
-    Interned at
-    <a href="https://ignotalabs.ai/" target="_blank" rel="noopener">IgnotaLabs.AI</a>
-    on Gaussian Processes + Multi-Objective Bayesian Optimization with
-    <a href="https://www.austintripp.ca/" target="_blank" rel="noopener">Austin Tripp</a>,
-    <a href="https://tbrx.github.io/" target="_blank" rel="noopener">Brooks Paige</a>,
-    and
-    <a href="https://www.alumni.cam.ac.uk/experimental-spirit-layla-hosseini-gerami" target="_blank" rel="noopener">
-      Layla Hosseini-Gerami
-    </a>.
-  </li>
-</ul>
-
-<h2>Contact</h2>
-<ul class="contact-list">
-  <li><strong>Email:</strong> <a href="mailto:ay180501@gmail.com">ay180501@gmail.com</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/anabelyong">github.com/anabelyong</a></li>
 </ul>
