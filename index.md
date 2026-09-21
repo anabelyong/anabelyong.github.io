@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="about-intro"> 
-  <img class="profile-picture" src="profile.png" alt="Photo of Anabel Yong" style="width: 260px; height: 320px; object-fit: cover;"> 
+  <img class="profile-picture" src="profile.png" alt="Photo of Anabel Yong" style="width: 520px; height: 600px; object-fit: cover;"> 
   <div class="about-text">
     <h2>About Me</h2>
     <p>
