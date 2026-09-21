@@ -81,8 +81,8 @@ code, pre, kbd, samp {
 
 /* Make sure theme image rules can't override */
 .about-intro img.profile-picture {
-  width: 960px !important;       /* adjust 220–280 */
-  height: 1000px !important;
+  width: 320px !important;       /* adjust 220–280 */
+  height: 320px !important;
   max-width: none !important;    /* stops theme from auto-scaling */
   border-radius: 0;
   object-fit: cover;
@@ -128,7 +128,7 @@ code, pre, kbd, samp {
   }
 
   .about-intro img.profile-picture {
-    width: 1000px !important;
-    height: 1200px !important;
+    width: 260px !important;
+    height: 260px !important;
   }
 }
