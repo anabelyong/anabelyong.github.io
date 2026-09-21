@@ -20,11 +20,18 @@ sass:
 nav:
   - name: "ABOUT"
     link: "/"
+  - name: "NEWS"
+    link: "/news"
+    openInNewTab: Yes
   - name: "PROJECTS"
     link: "/project"  # Make sure this link is correct. If projects.md is in the root, this is fine.
+    openInNewTab: Yes
   - name: "NOTES"
     link: "/mlposts"   # Same here, ensure this is the correct link to your contact page.
     openInNewTab: Yes
+  - name: "COLLABORATIONS"
+    link: "/contact"
   - name: "RESUME"
     link: "resume.pdf"
+    
   
