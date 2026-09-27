@@ -7,7 +7,7 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      I'm a PhD candidate at <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Laboratory of Artificial Chemical Intelligence (LIAC), EPFL</a>,
+      I'm a PhD student at <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Laboratory of Artificial Chemical Intelligence (LIAC), EPFL</a>,
       advised by <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Prof. Philippe Schwaller</a>.
       My research builds uncertainty-aware, data-efficient models for accelerating the discovery of novel molecules and materials.
     </p>
