@@ -5,6 +5,10 @@ title: news
 
 <h2>News</h2>
 <ul class="news-list">
+    <li>
+    <strong>Sept 2026:</strong>
+    <a href="https://openreview.net/forum?id=2sxnYSgQYC&referrer=%5Bthe%20profile%20of%20Anabel%20Yong%5D(%2Fprofile%3Fid%3D~Anabel_Yong1)" target="_blank" rel="noopener">MOFjson: An     Explicit Topological Representation of Metal-Organic Frameworks for Language Models</a> accepted as a poster at <a href="https://moleculediscovery.github.io/workshop2026/" target="_blank" rel="noopener">NeurIPS 2026 ML4Molecules: Agentic Systems for Molecular Sciences</a>.
+  </li>
   <li>
     <strong>Sept 2025:</strong>
     <a href="https://arxiv.org/abs/2507.13704" target="_blank" rel="noopener">Bayesian Optimization for Molecules should be Pareto-aware</a>
