@@ -7,9 +7,7 @@ layout: default
   <div class="about-text">
     <h2>About Me</h2>
     <p>
-      I'm a PhD student at <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Laboratory of Artificial Chemical Intelligence (LIAC), EPFL</a>,
-      advised by <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Prof. Philippe Schwaller</a>.
-      My research builds uncertainty-aware, data-efficient models for accelerating the discovery of novel molecules and materials.
+      I'm a PhD student at EPFL, advised by <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Prof. Philippe Schwaller</a> at the <a href="https://schwallergroup.github.io/" target="_blank" rel="noopener">Laboratory of Artificial Chemical Intelligence (LIAC)</a> and <a href="https://www.epfl.ch/labs/cosmo/" target="_blank" rel="noopener">Prof. Michele Ceriotti</a> at the <a href="https://www.epfl.ch/labs/cosmo/" target="_blank" rel="noopener">Laboratory of Computational Science and Modelling (COSMO)</a>. My research is funded by <a href="https://nccr-separations.ch/people/" target="_blank" rel="noopener">NCCR Separations</a> and focuses on building uncertainty-aware, data-efficient models for accelerating the discovery of novel molecules and materials.
     </p>
     <p>
       Previously: <a href="https://www.comp.nus.edu.sg/" target="_blank" rel="noopener">Department of Computer Science, National University of Singapore (NUS)</a>;
