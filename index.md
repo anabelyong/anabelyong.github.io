@@ -11,7 +11,7 @@ layout: default
     </p>
     <p>
       Previously: <a href="https://www.comp.nus.edu.sg/" target="_blank" rel="noopener">Department of Computer Science, National University of Singapore (NUS)</a>;
-      MSc Computational Statistics &amp; Machine Learning (Distinction) at
+      MSc Computational Statistics &amp; Machine Learning at
       <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener">University College London (UCL).</a>
     </p>
     <p class="contact-inline">
